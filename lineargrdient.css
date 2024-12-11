@@ -1,0 +1,14 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box
+{
+    /* background: linear-gradient( to right,green ,red,blue,grey); */
+    width: 200px;
+    height: 200px;
+    /* background: radial-gradient(red,green,maroon); */
+    background: conic-gradient( red ,green,blue);
+}
